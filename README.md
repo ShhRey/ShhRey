@@ -1,4 +1,9 @@
-### Hi there 👋
+# hey There 👋
+## This is Shrey Trivedi's GitHub Profile 🚀
+
+
+[![GitHub followers](https://img.shields.io/github/followers/ShhRey?style=social)](https://github.com/ShhRey)
+[![GitHub stars](https://img.shields.io/github/stars/ShhRey/repo-name?style=social)](https://github.com/ShhRey/repo-name)
 
 <!--
 **ShhRey/ShhRey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
