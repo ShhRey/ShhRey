@@ -1,7 +1,8 @@
 # Hello World; 🌍 I Exist! 👋
 
 🚀 Brace yourself for a coding adventure!, Explore the chronicles of my Projects and the tech wizardry that fuels them. 
-&nbsp; &nbsp; Ready to ride the byte-sized rollercoaster? 👩‍💻✨
+<br /> 
+Ready to ride the byte-sized rollercoaster? 👩‍💻✨
 
 - ### My name is Shrey Trivedi !
 - 🔭 I’m currently working on: **Branding Website Project** 
