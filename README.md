@@ -38,7 +38,7 @@ Ready to ride the byte-sized rollercoaster? 👩‍💻✨
 <br />
 
 ## GitHub Stats and Top Languages
-<img align="left" alt="Siddharth's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ShhRey&hide_border=false"/>
+<img align="left" alt="Shrey's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ShhRey&hide_border=false"/>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ShhRey&show_icons=true&locale=en&layout=compact" alt="ShhRey" />
 <br />
