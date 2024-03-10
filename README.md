@@ -52,5 +52,5 @@ Ready to ride the byte-sized rollercoaster? 👩‍💻✨
 <br />
 
 ## 📫 Feel free to reach out if you have any Questions or Collaboration Ideas!
-<a href="https://www.linkedin.com/in/shrey-trivedi-5b0aa418b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shreytrivedi577/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
 <br />
