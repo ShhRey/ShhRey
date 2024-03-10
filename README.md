@@ -6,7 +6,6 @@ Ready to ride the byte-sized rollercoaster? 👩‍💻✨
 
 - ### My name is Shrey Trivedi !
 - 🔭 I’m currently working on: **Learning Data Structures** 
-- 🌱 I’m currently learning: **NextJS**
 - 👯 I’m looking for help with: **Living Life 🤷‍♂️**
 - 💬 Ask me About: **Anything 🙃**
 <br />
