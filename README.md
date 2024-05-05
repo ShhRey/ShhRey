@@ -6,7 +6,7 @@ Dive into the saga of my projects, fueled by a passion for data and development.
 
 - ### My name is Shrey Trivedi!
 - 🔭 I’m currently delving into: **Data Structures & Algorithms** 
-- 👯 👯 Seeking advice on: **Balancing Tech and Life 🤷**
+- 👯 Seeking advice on: **Balancing Tech and Life 🤷**
 - 💬 Ask me About: **Anything 🙃**
 <br />
 
@@ -42,15 +42,13 @@ Dive into the saga of my projects, fueled by a passion for data and development.
     <td align="center"><img src="https://img.icons8.com/color/48/000000/swagger.png" width="40"/><br /><b>Swagger</b></td>
   </tr>
 </table>
-
 <br />
 <br />
 
-## GitHub Insights
-<p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=ShhRey&theme=radical&layout=compact&hide_border=false" alt="Shrey's GitHub Stats" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ShhRey&show_icons=true&theme=radical&layout=compact" alt="Top Languages" width="375" />
+## GitHub Insights 📊
+<p align="space-around">
+  <img src="https://github-readme-stats.vercel.app/api?username=ShhRey&show_icons=true&theme=radical&layout=compact&hide_border=false" alt="Shrey's GitHub Stats" height="200" width="420"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShhRey&show_icons=true&theme=radical&layout=compact&hide_border=false" alt="Top Languages" height="200"/>
 </p>
 <br />
 <br />
